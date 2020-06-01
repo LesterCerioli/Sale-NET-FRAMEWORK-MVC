@@ -72,7 +72,7 @@ ARQUITETURA DA SOLUÇÃO
 
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQlhReCg4ZJp1-ItwyYINGlx4GM-_AvqssrNkxcJYbLJMI-8W1Q&usqp=CAU">
 
-
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT4mjfVegzbfiK-CB8loATVk-W9XyDovTfK3fcTAQVo39dRjh0m&usqp=CAU">
 
 LIINK: https://drive.google.com/file/d/1XpW9zjp7Z0eV-t-uJwa28krDiG-BD2IU/view?usp=sharing
 
