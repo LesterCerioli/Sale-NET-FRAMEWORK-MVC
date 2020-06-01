@@ -54,7 +54,7 @@ Criação das Interfaces:
 
 
 
-<img src="https://drive.google.com/file/d/147AHuQvl81BNq-OU_Ac8oOQJ7_W7LPo9/view?usp=sharing>
+<img src="https://drive.google.com/file/d/147AHuQvl81BNq-OU_Ac8oOQJ7_W7LPo9/view?usp=sharing">
 
 
 
@@ -70,7 +70,7 @@ ARQUITETURA DA SOLUÇÃO
 
 
 
-<img src="https://www.google.com/imgres?imgurl=http%3A%2F%2Fnelsonbassetto.com%2Fblog%2Fwp-content%2Fuploads%2F2014%2F01%2Fimage2.png&imgrefurl=http%3A%2F%2Fnelsonbassetto.com%2Fblog%2F2014%2F01%2Farquitetura-de-referncia-microsoft-domain-driven-design-dependency-injection-cloud-e-muito-mais-parte-2%2F&tbnid=fKPU7T9A4-N17M&vet=12ahUKEwjt7sXyuN_pAhX5L7kGHXSpB2MQMygbegQIARA7..i&docid=mLF1d6FMR5gKEM&w=703&h=368&q=arquitetura%20orientada%20a%20servi%C3%A7os%20com%20net%20framework&safe=strict&ved=2ahUKEwjt7sXyuN_pAhX5L7kGHXSpB2MQMygbegQIARA7">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQlhReCg4ZJp1-ItwyYINGlx4GM-_AvqssrNkxcJYbLJMI-8W1Q&usqp=CAU">
 
 
 
