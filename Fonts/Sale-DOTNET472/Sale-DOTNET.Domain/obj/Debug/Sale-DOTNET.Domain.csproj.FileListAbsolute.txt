@@ -1,0 +1,6 @@
+C:\Users\lester_profarma\source\repos\Azure\Sale-NET-FRAMEWORK-MVC\Fonts\Sale-DOTNET472\Sale-DOTNET.Domain\bin\Debug\Sale-DOTNET.Domain.dll
+C:\Users\lester_profarma\source\repos\Azure\Sale-NET-FRAMEWORK-MVC\Fonts\Sale-DOTNET472\Sale-DOTNET.Domain\bin\Debug\Sale-DOTNET.Domain.pdb
+C:\Users\lester_profarma\source\repos\Azure\Sale-NET-FRAMEWORK-MVC\Fonts\Sale-DOTNET472\Sale-DOTNET.Domain\obj\Debug\Sale-DOTNET.Domain.csprojAssemblyReference.cache
+C:\Users\lester_profarma\source\repos\Azure\Sale-NET-FRAMEWORK-MVC\Fonts\Sale-DOTNET472\Sale-DOTNET.Domain\obj\Debug\Sale-DOTNET.Domain.csproj.CoreCompileInputs.cache
+C:\Users\lester_profarma\source\repos\Azure\Sale-NET-FRAMEWORK-MVC\Fonts\Sale-DOTNET472\Sale-DOTNET.Domain\obj\Debug\Sale-DOTNET.Domain.dll
+C:\Users\lester_profarma\source\repos\Azure\Sale-NET-FRAMEWORK-MVC\Fonts\Sale-DOTNET472\Sale-DOTNET.Domain\obj\Debug\Sale-DOTNET.Domain.pdb

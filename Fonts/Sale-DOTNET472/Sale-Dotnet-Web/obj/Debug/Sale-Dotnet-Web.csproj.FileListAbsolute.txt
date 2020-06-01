@@ -1,0 +1,158 @@
+Z:\Repositorios\Azure Devops\Ionic-Sale\Fonts\NET FRAMEWORK4-7-2\Sale-DOTNET472\Sale-Dotnet-Web\bin\Sale-Dotnet-Web.dll.config
+Z:\Repositorios\Azure Devops\Ionic-Sale\Fonts\NET FRAMEWORK4-7-2\Sale-DOTNET472\Sale-Dotnet-Web\bin\Sale-Dotnet-Web.dll
+Z:\Repositorios\Azure Devops\Ionic-Sale\Fonts\NET FRAMEWORK4-7-2\Sale-DOTNET472\Sale-Dotnet-Web\bin\Sale-Dotnet-Web.pdb
+Z:\Repositorios\Azure Devops\Ionic-Sale\Fonts\NET FRAMEWORK4-7-2\Sale-DOTNET472\Sale-Dotnet-Web\bin\roslyn\csc.exe
+Z:\Repositorios\Azure Devops\Ionic-Sale\Fonts\NET FRAMEWORK4-7-2\Sale-DOTNET472\Sale-Dotnet-Web\bin\roslyn\csc.exe.config
+Z:\Repositorios\Azure Devops\Ionic-Sale\Fonts\NET FRAMEWORK4-7-2\Sale-DOTNET472\Sale-Dotnet-Web\bin\roslyn\csc.rsp
+Z:\Repositorios\Azure Devops\Ionic-Sale\Fonts\NET FRAMEWORK4-7-2\Sale-DOTNET472\Sale-Dotnet-Web\bin\roslyn\csi.exe
+Z:\Repositorios\Azure Devops\Ionic-Sale\Fonts\NET FRAMEWORK4-7-2\Sale-DOTNET472\Sale-Dotnet-Web\bin\roslyn\csi.exe.config
+Z:\Repositorios\Azure Devops\Ionic-Sale\Fonts\NET FRAMEWORK4-7-2\Sale-DOTNET472\Sale-Dotnet-Web\bin\roslyn\csi.rsp
+Z:\Repositorios\Azure Devops\Ionic-Sale\Fonts\NET FRAMEWORK4-7-2\Sale-DOTNET472\Sale-Dotnet-Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+Z:\Repositorios\Azure Devops\Ionic-Sale\Fonts\NET FRAMEWORK4-7-2\Sale-DOTNET472\Sale-Dotnet-Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+Z:\Repositorios\Azure Devops\Ionic-Sale\Fonts\NET FRAMEWORK4-7-2\Sale-DOTNET472\Sale-Dotnet-Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+Z:\Repositorios\Azure Devops\Ionic-Sale\Fonts\NET FRAMEWORK4-7-2\Sale-DOTNET472\Sale-Dotnet-Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+Z:\Repositorios\Azure Devops\Ionic-Sale\Fonts\NET FRAMEWORK4-7-2\Sale-DOTNET472\Sale-Dotnet-Web\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+Z:\Repositorios\Azure Devops\Ionic-Sale\Fonts\NET FRAMEWORK4-7-2\Sale-DOTNET472\Sale-Dotnet-Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+Z:\Repositorios\Azure Devops\Ionic-Sale\Fonts\NET FRAMEWORK4-7-2\Sale-DOTNET472\Sale-Dotnet-Web\bin\roslyn\Microsoft.CSharp.Core.targets
+Z:\Repositorios\Azure Devops\Ionic-Sale\Fonts\NET FRAMEWORK4-7-2\Sale-DOTNET472\Sale-Dotnet-Web\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+Z:\Repositorios\Azure Devops\Ionic-Sale\Fonts\NET FRAMEWORK4-7-2\Sale-DOTNET472\Sale-Dotnet-Web\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+Z:\Repositorios\Azure Devops\Ionic-Sale\Fonts\NET FRAMEWORK4-7-2\Sale-DOTNET472\Sale-Dotnet-Web\bin\roslyn\Microsoft.Managed.Core.targets
+Z:\Repositorios\Azure Devops\Ionic-Sale\Fonts\NET FRAMEWORK4-7-2\Sale-DOTNET472\Sale-Dotnet-Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+Z:\Repositorios\Azure Devops\Ionic-Sale\Fonts\NET FRAMEWORK4-7-2\Sale-DOTNET472\Sale-Dotnet-Web\bin\roslyn\Microsoft.Win32.Primitives.dll
+Z:\Repositorios\Azure Devops\Ionic-Sale\Fonts\NET FRAMEWORK4-7-2\Sale-DOTNET472\Sale-Dotnet-Web\bin\roslyn\System.AppContext.dll
+Z:\Repositorios\Azure Devops\Ionic-Sale\Fonts\NET FRAMEWORK4-7-2\Sale-DOTNET472\Sale-Dotnet-Web\bin\roslyn\System.Collections.Immutable.dll
+Z:\Repositorios\Azure Devops\Ionic-Sale\Fonts\NET FRAMEWORK4-7-2\Sale-DOTNET472\Sale-Dotnet-Web\bin\roslyn\System.Console.dll
+Z:\Repositorios\Azure Devops\Ionic-Sale\Fonts\NET FRAMEWORK4-7-2\Sale-DOTNET472\Sale-Dotnet-Web\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+Z:\Repositorios\Azure Devops\Ionic-Sale\Fonts\NET FRAMEWORK4-7-2\Sale-DOTNET472\Sale-Dotnet-Web\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+Z:\Repositorios\Azure Devops\Ionic-Sale\Fonts\NET FRAMEWORK4-7-2\Sale-DOTNET472\Sale-Dotnet-Web\bin\roslyn\System.Diagnostics.StackTrace.dll
+Z:\Repositorios\Azure Devops\Ionic-Sale\Fonts\NET FRAMEWORK4-7-2\Sale-DOTNET472\Sale-Dotnet-Web\bin\roslyn\System.Globalization.Calendars.dll
+Z:\Repositorios\Azure Devops\Ionic-Sale\Fonts\NET FRAMEWORK4-7-2\Sale-DOTNET472\Sale-Dotnet-Web\bin\roslyn\System.IO.Compression.dll
+Z:\Repositorios\Azure Devops\Ionic-Sale\Fonts\NET FRAMEWORK4-7-2\Sale-DOTNET472\Sale-Dotnet-Web\bin\roslyn\System.IO.Compression.ZipFile.dll
+Z:\Repositorios\Azure Devops\Ionic-Sale\Fonts\NET FRAMEWORK4-7-2\Sale-DOTNET472\Sale-Dotnet-Web\bin\roslyn\System.IO.FileSystem.dll
+Z:\Repositorios\Azure Devops\Ionic-Sale\Fonts\NET FRAMEWORK4-7-2\Sale-DOTNET472\Sale-Dotnet-Web\bin\roslyn\System.IO.FileSystem.Primitives.dll
+Z:\Repositorios\Azure Devops\Ionic-Sale\Fonts\NET FRAMEWORK4-7-2\Sale-DOTNET472\Sale-Dotnet-Web\bin\roslyn\System.Net.Http.dll
+Z:\Repositorios\Azure Devops\Ionic-Sale\Fonts\NET FRAMEWORK4-7-2\Sale-DOTNET472\Sale-Dotnet-Web\bin\roslyn\System.Net.Sockets.dll
+Z:\Repositorios\Azure Devops\Ionic-Sale\Fonts\NET FRAMEWORK4-7-2\Sale-DOTNET472\Sale-Dotnet-Web\bin\roslyn\System.Reflection.Metadata.dll
+Z:\Repositorios\Azure Devops\Ionic-Sale\Fonts\NET FRAMEWORK4-7-2\Sale-DOTNET472\Sale-Dotnet-Web\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+Z:\Repositorios\Azure Devops\Ionic-Sale\Fonts\NET FRAMEWORK4-7-2\Sale-DOTNET472\Sale-Dotnet-Web\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+Z:\Repositorios\Azure Devops\Ionic-Sale\Fonts\NET FRAMEWORK4-7-2\Sale-DOTNET472\Sale-Dotnet-Web\bin\roslyn\System.Security.Cryptography.Encoding.dll
+Z:\Repositorios\Azure Devops\Ionic-Sale\Fonts\NET FRAMEWORK4-7-2\Sale-DOTNET472\Sale-Dotnet-Web\bin\roslyn\System.Security.Cryptography.Primitives.dll
+Z:\Repositorios\Azure Devops\Ionic-Sale\Fonts\NET FRAMEWORK4-7-2\Sale-DOTNET472\Sale-Dotnet-Web\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+Z:\Repositorios\Azure Devops\Ionic-Sale\Fonts\NET FRAMEWORK4-7-2\Sale-DOTNET472\Sale-Dotnet-Web\bin\roslyn\System.Text.Encoding.CodePages.dll
+Z:\Repositorios\Azure Devops\Ionic-Sale\Fonts\NET FRAMEWORK4-7-2\Sale-DOTNET472\Sale-Dotnet-Web\bin\roslyn\System.Threading.Tasks.Extensions.dll
+Z:\Repositorios\Azure Devops\Ionic-Sale\Fonts\NET FRAMEWORK4-7-2\Sale-DOTNET472\Sale-Dotnet-Web\bin\roslyn\System.ValueTuple.dll
+Z:\Repositorios\Azure Devops\Ionic-Sale\Fonts\NET FRAMEWORK4-7-2\Sale-DOTNET472\Sale-Dotnet-Web\bin\roslyn\System.Xml.ReaderWriter.dll
+Z:\Repositorios\Azure Devops\Ionic-Sale\Fonts\NET FRAMEWORK4-7-2\Sale-DOTNET472\Sale-Dotnet-Web\bin\roslyn\System.Xml.XmlDocument.dll
+Z:\Repositorios\Azure Devops\Ionic-Sale\Fonts\NET FRAMEWORK4-7-2\Sale-DOTNET472\Sale-Dotnet-Web\bin\roslyn\System.Xml.XPath.dll
+Z:\Repositorios\Azure Devops\Ionic-Sale\Fonts\NET FRAMEWORK4-7-2\Sale-DOTNET472\Sale-Dotnet-Web\bin\roslyn\System.Xml.XPath.XDocument.dll
+Z:\Repositorios\Azure Devops\Ionic-Sale\Fonts\NET FRAMEWORK4-7-2\Sale-DOTNET472\Sale-Dotnet-Web\bin\roslyn\vbc.exe
+Z:\Repositorios\Azure Devops\Ionic-Sale\Fonts\NET FRAMEWORK4-7-2\Sale-DOTNET472\Sale-Dotnet-Web\bin\roslyn\vbc.exe.config
+Z:\Repositorios\Azure Devops\Ionic-Sale\Fonts\NET FRAMEWORK4-7-2\Sale-DOTNET472\Sale-Dotnet-Web\bin\roslyn\vbc.rsp
+Z:\Repositorios\Azure Devops\Ionic-Sale\Fonts\NET FRAMEWORK4-7-2\Sale-DOTNET472\Sale-Dotnet-Web\bin\roslyn\VBCSCompiler.exe
+Z:\Repositorios\Azure Devops\Ionic-Sale\Fonts\NET FRAMEWORK4-7-2\Sale-DOTNET472\Sale-Dotnet-Web\bin\roslyn\VBCSCompiler.exe.config
+Z:\Repositorios\Azure Devops\Ionic-Sale\Fonts\NET FRAMEWORK4-7-2\Sale-DOTNET472\Sale-Dotnet-Web\bin\Antlr3.Runtime.dll
+Z:\Repositorios\Azure Devops\Ionic-Sale\Fonts\NET FRAMEWORK4-7-2\Sale-DOTNET472\Sale-Dotnet-Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+Z:\Repositorios\Azure Devops\Ionic-Sale\Fonts\NET FRAMEWORK4-7-2\Sale-DOTNET472\Sale-Dotnet-Web\bin\Microsoft.Web.Infrastructure.dll
+Z:\Repositorios\Azure Devops\Ionic-Sale\Fonts\NET FRAMEWORK4-7-2\Sale-DOTNET472\Sale-Dotnet-Web\bin\Newtonsoft.Json.dll
+Z:\Repositorios\Azure Devops\Ionic-Sale\Fonts\NET FRAMEWORK4-7-2\Sale-DOTNET472\Sale-Dotnet-Web\bin\System.Web.Helpers.dll
+Z:\Repositorios\Azure Devops\Ionic-Sale\Fonts\NET FRAMEWORK4-7-2\Sale-DOTNET472\Sale-Dotnet-Web\bin\System.Web.Mvc.dll
+Z:\Repositorios\Azure Devops\Ionic-Sale\Fonts\NET FRAMEWORK4-7-2\Sale-DOTNET472\Sale-Dotnet-Web\bin\System.Web.Optimization.dll
+Z:\Repositorios\Azure Devops\Ionic-Sale\Fonts\NET FRAMEWORK4-7-2\Sale-DOTNET472\Sale-Dotnet-Web\bin\System.Web.Razor.dll
+Z:\Repositorios\Azure Devops\Ionic-Sale\Fonts\NET FRAMEWORK4-7-2\Sale-DOTNET472\Sale-Dotnet-Web\bin\System.Web.WebPages.Deployment.dll
+Z:\Repositorios\Azure Devops\Ionic-Sale\Fonts\NET FRAMEWORK4-7-2\Sale-DOTNET472\Sale-Dotnet-Web\bin\System.Web.WebPages.dll
+Z:\Repositorios\Azure Devops\Ionic-Sale\Fonts\NET FRAMEWORK4-7-2\Sale-DOTNET472\Sale-Dotnet-Web\bin\System.Web.WebPages.Razor.dll
+Z:\Repositorios\Azure Devops\Ionic-Sale\Fonts\NET FRAMEWORK4-7-2\Sale-DOTNET472\Sale-Dotnet-Web\bin\WebGrease.dll
+Z:\Repositorios\Azure Devops\Ionic-Sale\Fonts\NET FRAMEWORK4-7-2\Sale-DOTNET472\Sale-Dotnet-Web\bin\System.Web.Helpers.xml
+Z:\Repositorios\Azure Devops\Ionic-Sale\Fonts\NET FRAMEWORK4-7-2\Sale-DOTNET472\Sale-Dotnet-Web\bin\System.Web.Mvc.xml
+Z:\Repositorios\Azure Devops\Ionic-Sale\Fonts\NET FRAMEWORK4-7-2\Sale-DOTNET472\Sale-Dotnet-Web\bin\System.Web.Optimization.xml
+Z:\Repositorios\Azure Devops\Ionic-Sale\Fonts\NET FRAMEWORK4-7-2\Sale-DOTNET472\Sale-Dotnet-Web\bin\System.Web.Razor.xml
+Z:\Repositorios\Azure Devops\Ionic-Sale\Fonts\NET FRAMEWORK4-7-2\Sale-DOTNET472\Sale-Dotnet-Web\bin\System.Web.WebPages.xml
+Z:\Repositorios\Azure Devops\Ionic-Sale\Fonts\NET FRAMEWORK4-7-2\Sale-DOTNET472\Sale-Dotnet-Web\bin\System.Web.WebPages.Deployment.xml
+Z:\Repositorios\Azure Devops\Ionic-Sale\Fonts\NET FRAMEWORK4-7-2\Sale-DOTNET472\Sale-Dotnet-Web\bin\System.Web.WebPages.Razor.xml
+Z:\Repositorios\Azure Devops\Ionic-Sale\Fonts\NET FRAMEWORK4-7-2\Sale-DOTNET472\Sale-Dotnet-Web\bin\Newtonsoft.Json.xml
+Z:\Repositorios\Azure Devops\Ionic-Sale\Fonts\NET FRAMEWORK4-7-2\Sale-DOTNET472\Sale-Dotnet-Web\bin\Antlr3.Runtime.pdb
+Z:\Repositorios\Azure Devops\Ionic-Sale\Fonts\NET FRAMEWORK4-7-2\Sale-DOTNET472\Sale-Dotnet-Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+Z:\Repositorios\Azure Devops\Ionic-Sale\Fonts\NET FRAMEWORK4-7-2\Sale-DOTNET472\Sale-Dotnet-Web\obj\Debug\Sale-Dotnet-Web.csprojAssemblyReference.cache
+Z:\Repositorios\Azure Devops\Ionic-Sale\Fonts\NET FRAMEWORK4-7-2\Sale-DOTNET472\Sale-Dotnet-Web\obj\Debug\Sale-Dotnet-Web.csproj.CoreCompileInputs.cache
+Z:\Repositorios\Azure Devops\Ionic-Sale\Fonts\NET FRAMEWORK4-7-2\Sale-DOTNET472\Sale-Dotnet-Web\obj\Debug\Sale-Dotnet-Web.csproj.CopyComplete
+Z:\Repositorios\Azure Devops\Ionic-Sale\Fonts\NET FRAMEWORK4-7-2\Sale-DOTNET472\Sale-Dotnet-Web\obj\Debug\Sale-Dotnet-Web.dll
+Z:\Repositorios\Azure Devops\Ionic-Sale\Fonts\NET FRAMEWORK4-7-2\Sale-DOTNET472\Sale-Dotnet-Web\obj\Debug\Sale-Dotnet-Web.pdb
+C:\Users\lester_profarma\source\repos\Azure\Sale-NET-FRAMEWORK-MVC\Fonts\Sale-DOTNET472\Sale-Dotnet-Web\bin\Sale-Dotnet-Web.dll.config
+C:\Users\lester_profarma\source\repos\Azure\Sale-NET-FRAMEWORK-MVC\Fonts\Sale-DOTNET472\Sale-Dotnet-Web\bin\Sale-Dotnet-Web.dll
+C:\Users\lester_profarma\source\repos\Azure\Sale-NET-FRAMEWORK-MVC\Fonts\Sale-DOTNET472\Sale-Dotnet-Web\bin\Sale-Dotnet-Web.pdb
+C:\Users\lester_profarma\source\repos\Azure\Sale-NET-FRAMEWORK-MVC\Fonts\Sale-DOTNET472\Sale-Dotnet-Web\bin\roslyn\csc.exe
+C:\Users\lester_profarma\source\repos\Azure\Sale-NET-FRAMEWORK-MVC\Fonts\Sale-DOTNET472\Sale-Dotnet-Web\bin\roslyn\csc.exe.config
+C:\Users\lester_profarma\source\repos\Azure\Sale-NET-FRAMEWORK-MVC\Fonts\Sale-DOTNET472\Sale-Dotnet-Web\bin\roslyn\csc.rsp
+C:\Users\lester_profarma\source\repos\Azure\Sale-NET-FRAMEWORK-MVC\Fonts\Sale-DOTNET472\Sale-Dotnet-Web\bin\roslyn\csi.exe
+C:\Users\lester_profarma\source\repos\Azure\Sale-NET-FRAMEWORK-MVC\Fonts\Sale-DOTNET472\Sale-Dotnet-Web\bin\roslyn\csi.exe.config
+C:\Users\lester_profarma\source\repos\Azure\Sale-NET-FRAMEWORK-MVC\Fonts\Sale-DOTNET472\Sale-Dotnet-Web\bin\roslyn\csi.rsp
+C:\Users\lester_profarma\source\repos\Azure\Sale-NET-FRAMEWORK-MVC\Fonts\Sale-DOTNET472\Sale-Dotnet-Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\lester_profarma\source\repos\Azure\Sale-NET-FRAMEWORK-MVC\Fonts\Sale-DOTNET472\Sale-Dotnet-Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\lester_profarma\source\repos\Azure\Sale-NET-FRAMEWORK-MVC\Fonts\Sale-DOTNET472\Sale-Dotnet-Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\lester_profarma\source\repos\Azure\Sale-NET-FRAMEWORK-MVC\Fonts\Sale-DOTNET472\Sale-Dotnet-Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\lester_profarma\source\repos\Azure\Sale-NET-FRAMEWORK-MVC\Fonts\Sale-DOTNET472\Sale-Dotnet-Web\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\lester_profarma\source\repos\Azure\Sale-NET-FRAMEWORK-MVC\Fonts\Sale-DOTNET472\Sale-Dotnet-Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\lester_profarma\source\repos\Azure\Sale-NET-FRAMEWORK-MVC\Fonts\Sale-DOTNET472\Sale-Dotnet-Web\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\lester_profarma\source\repos\Azure\Sale-NET-FRAMEWORK-MVC\Fonts\Sale-DOTNET472\Sale-Dotnet-Web\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\lester_profarma\source\repos\Azure\Sale-NET-FRAMEWORK-MVC\Fonts\Sale-DOTNET472\Sale-Dotnet-Web\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\lester_profarma\source\repos\Azure\Sale-NET-FRAMEWORK-MVC\Fonts\Sale-DOTNET472\Sale-Dotnet-Web\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\lester_profarma\source\repos\Azure\Sale-NET-FRAMEWORK-MVC\Fonts\Sale-DOTNET472\Sale-Dotnet-Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\lester_profarma\source\repos\Azure\Sale-NET-FRAMEWORK-MVC\Fonts\Sale-DOTNET472\Sale-Dotnet-Web\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\lester_profarma\source\repos\Azure\Sale-NET-FRAMEWORK-MVC\Fonts\Sale-DOTNET472\Sale-Dotnet-Web\bin\roslyn\System.AppContext.dll
+C:\Users\lester_profarma\source\repos\Azure\Sale-NET-FRAMEWORK-MVC\Fonts\Sale-DOTNET472\Sale-Dotnet-Web\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\lester_profarma\source\repos\Azure\Sale-NET-FRAMEWORK-MVC\Fonts\Sale-DOTNET472\Sale-Dotnet-Web\bin\roslyn\System.Console.dll
+C:\Users\lester_profarma\source\repos\Azure\Sale-NET-FRAMEWORK-MVC\Fonts\Sale-DOTNET472\Sale-Dotnet-Web\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\lester_profarma\source\repos\Azure\Sale-NET-FRAMEWORK-MVC\Fonts\Sale-DOTNET472\Sale-Dotnet-Web\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\lester_profarma\source\repos\Azure\Sale-NET-FRAMEWORK-MVC\Fonts\Sale-DOTNET472\Sale-Dotnet-Web\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\lester_profarma\source\repos\Azure\Sale-NET-FRAMEWORK-MVC\Fonts\Sale-DOTNET472\Sale-Dotnet-Web\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\lester_profarma\source\repos\Azure\Sale-NET-FRAMEWORK-MVC\Fonts\Sale-DOTNET472\Sale-Dotnet-Web\bin\roslyn\System.IO.Compression.dll
+C:\Users\lester_profarma\source\repos\Azure\Sale-NET-FRAMEWORK-MVC\Fonts\Sale-DOTNET472\Sale-Dotnet-Web\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\lester_profarma\source\repos\Azure\Sale-NET-FRAMEWORK-MVC\Fonts\Sale-DOTNET472\Sale-Dotnet-Web\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\lester_profarma\source\repos\Azure\Sale-NET-FRAMEWORK-MVC\Fonts\Sale-DOTNET472\Sale-Dotnet-Web\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\lester_profarma\source\repos\Azure\Sale-NET-FRAMEWORK-MVC\Fonts\Sale-DOTNET472\Sale-Dotnet-Web\bin\roslyn\System.Net.Http.dll
+C:\Users\lester_profarma\source\repos\Azure\Sale-NET-FRAMEWORK-MVC\Fonts\Sale-DOTNET472\Sale-Dotnet-Web\bin\roslyn\System.Net.Sockets.dll
+C:\Users\lester_profarma\source\repos\Azure\Sale-NET-FRAMEWORK-MVC\Fonts\Sale-DOTNET472\Sale-Dotnet-Web\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\lester_profarma\source\repos\Azure\Sale-NET-FRAMEWORK-MVC\Fonts\Sale-DOTNET472\Sale-Dotnet-Web\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\lester_profarma\source\repos\Azure\Sale-NET-FRAMEWORK-MVC\Fonts\Sale-DOTNET472\Sale-Dotnet-Web\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\lester_profarma\source\repos\Azure\Sale-NET-FRAMEWORK-MVC\Fonts\Sale-DOTNET472\Sale-Dotnet-Web\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\lester_profarma\source\repos\Azure\Sale-NET-FRAMEWORK-MVC\Fonts\Sale-DOTNET472\Sale-Dotnet-Web\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\lester_profarma\source\repos\Azure\Sale-NET-FRAMEWORK-MVC\Fonts\Sale-DOTNET472\Sale-Dotnet-Web\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\lester_profarma\source\repos\Azure\Sale-NET-FRAMEWORK-MVC\Fonts\Sale-DOTNET472\Sale-Dotnet-Web\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\lester_profarma\source\repos\Azure\Sale-NET-FRAMEWORK-MVC\Fonts\Sale-DOTNET472\Sale-Dotnet-Web\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\lester_profarma\source\repos\Azure\Sale-NET-FRAMEWORK-MVC\Fonts\Sale-DOTNET472\Sale-Dotnet-Web\bin\roslyn\System.ValueTuple.dll
+C:\Users\lester_profarma\source\repos\Azure\Sale-NET-FRAMEWORK-MVC\Fonts\Sale-DOTNET472\Sale-Dotnet-Web\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\lester_profarma\source\repos\Azure\Sale-NET-FRAMEWORK-MVC\Fonts\Sale-DOTNET472\Sale-Dotnet-Web\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\lester_profarma\source\repos\Azure\Sale-NET-FRAMEWORK-MVC\Fonts\Sale-DOTNET472\Sale-Dotnet-Web\bin\roslyn\System.Xml.XPath.dll
+C:\Users\lester_profarma\source\repos\Azure\Sale-NET-FRAMEWORK-MVC\Fonts\Sale-DOTNET472\Sale-Dotnet-Web\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\lester_profarma\source\repos\Azure\Sale-NET-FRAMEWORK-MVC\Fonts\Sale-DOTNET472\Sale-Dotnet-Web\bin\roslyn\vbc.exe
+C:\Users\lester_profarma\source\repos\Azure\Sale-NET-FRAMEWORK-MVC\Fonts\Sale-DOTNET472\Sale-Dotnet-Web\bin\roslyn\vbc.exe.config
+C:\Users\lester_profarma\source\repos\Azure\Sale-NET-FRAMEWORK-MVC\Fonts\Sale-DOTNET472\Sale-Dotnet-Web\bin\roslyn\vbc.rsp
+C:\Users\lester_profarma\source\repos\Azure\Sale-NET-FRAMEWORK-MVC\Fonts\Sale-DOTNET472\Sale-Dotnet-Web\bin\roslyn\VBCSCompiler.exe
+C:\Users\lester_profarma\source\repos\Azure\Sale-NET-FRAMEWORK-MVC\Fonts\Sale-DOTNET472\Sale-Dotnet-Web\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\lester_profarma\source\repos\Azure\Sale-NET-FRAMEWORK-MVC\Fonts\Sale-DOTNET472\Sale-Dotnet-Web\bin\Antlr3.Runtime.dll
+C:\Users\lester_profarma\source\repos\Azure\Sale-NET-FRAMEWORK-MVC\Fonts\Sale-DOTNET472\Sale-Dotnet-Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\lester_profarma\source\repos\Azure\Sale-NET-FRAMEWORK-MVC\Fonts\Sale-DOTNET472\Sale-Dotnet-Web\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\lester_profarma\source\repos\Azure\Sale-NET-FRAMEWORK-MVC\Fonts\Sale-DOTNET472\Sale-Dotnet-Web\bin\Newtonsoft.Json.dll
+C:\Users\lester_profarma\source\repos\Azure\Sale-NET-FRAMEWORK-MVC\Fonts\Sale-DOTNET472\Sale-Dotnet-Web\bin\System.Web.Helpers.dll
+C:\Users\lester_profarma\source\repos\Azure\Sale-NET-FRAMEWORK-MVC\Fonts\Sale-DOTNET472\Sale-Dotnet-Web\bin\System.Web.Mvc.dll
+C:\Users\lester_profarma\source\repos\Azure\Sale-NET-FRAMEWORK-MVC\Fonts\Sale-DOTNET472\Sale-Dotnet-Web\bin\System.Web.Optimization.dll
+C:\Users\lester_profarma\source\repos\Azure\Sale-NET-FRAMEWORK-MVC\Fonts\Sale-DOTNET472\Sale-Dotnet-Web\bin\System.Web.Razor.dll
+C:\Users\lester_profarma\source\repos\Azure\Sale-NET-FRAMEWORK-MVC\Fonts\Sale-DOTNET472\Sale-Dotnet-Web\bin\System.Web.WebPages.Deployment.dll
+C:\Users\lester_profarma\source\repos\Azure\Sale-NET-FRAMEWORK-MVC\Fonts\Sale-DOTNET472\Sale-Dotnet-Web\bin\System.Web.WebPages.dll
+C:\Users\lester_profarma\source\repos\Azure\Sale-NET-FRAMEWORK-MVC\Fonts\Sale-DOTNET472\Sale-Dotnet-Web\bin\System.Web.WebPages.Razor.dll
+C:\Users\lester_profarma\source\repos\Azure\Sale-NET-FRAMEWORK-MVC\Fonts\Sale-DOTNET472\Sale-Dotnet-Web\bin\WebGrease.dll
+C:\Users\lester_profarma\source\repos\Azure\Sale-NET-FRAMEWORK-MVC\Fonts\Sale-DOTNET472\Sale-Dotnet-Web\bin\System.Web.Helpers.xml
+C:\Users\lester_profarma\source\repos\Azure\Sale-NET-FRAMEWORK-MVC\Fonts\Sale-DOTNET472\Sale-Dotnet-Web\bin\System.Web.Mvc.xml
+C:\Users\lester_profarma\source\repos\Azure\Sale-NET-FRAMEWORK-MVC\Fonts\Sale-DOTNET472\Sale-Dotnet-Web\bin\System.Web.Optimization.xml
+C:\Users\lester_profarma\source\repos\Azure\Sale-NET-FRAMEWORK-MVC\Fonts\Sale-DOTNET472\Sale-Dotnet-Web\bin\System.Web.Razor.xml
+C:\Users\lester_profarma\source\repos\Azure\Sale-NET-FRAMEWORK-MVC\Fonts\Sale-DOTNET472\Sale-Dotnet-Web\bin\System.Web.WebPages.xml
+C:\Users\lester_profarma\source\repos\Azure\Sale-NET-FRAMEWORK-MVC\Fonts\Sale-DOTNET472\Sale-Dotnet-Web\bin\System.Web.WebPages.Deployment.xml
+C:\Users\lester_profarma\source\repos\Azure\Sale-NET-FRAMEWORK-MVC\Fonts\Sale-DOTNET472\Sale-Dotnet-Web\bin\System.Web.WebPages.Razor.xml
+C:\Users\lester_profarma\source\repos\Azure\Sale-NET-FRAMEWORK-MVC\Fonts\Sale-DOTNET472\Sale-Dotnet-Web\bin\Newtonsoft.Json.xml
+C:\Users\lester_profarma\source\repos\Azure\Sale-NET-FRAMEWORK-MVC\Fonts\Sale-DOTNET472\Sale-Dotnet-Web\bin\Antlr3.Runtime.pdb
+C:\Users\lester_profarma\source\repos\Azure\Sale-NET-FRAMEWORK-MVC\Fonts\Sale-DOTNET472\Sale-Dotnet-Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\lester_profarma\source\repos\Azure\Sale-NET-FRAMEWORK-MVC\Fonts\Sale-DOTNET472\Sale-Dotnet-Web\obj\Debug\Sale-Dotnet-Web.csprojAssemblyReference.cache
+C:\Users\lester_profarma\source\repos\Azure\Sale-NET-FRAMEWORK-MVC\Fonts\Sale-DOTNET472\Sale-Dotnet-Web\obj\Debug\Sale-Dotnet-Web.csproj.CoreCompileInputs.cache
+C:\Users\lester_profarma\source\repos\Azure\Sale-NET-FRAMEWORK-MVC\Fonts\Sale-DOTNET472\Sale-Dotnet-Web\obj\Debug\Sale-Dotnet-Web.csproj.CopyComplete
+C:\Users\lester_profarma\source\repos\Azure\Sale-NET-FRAMEWORK-MVC\Fonts\Sale-DOTNET472\Sale-Dotnet-Web\obj\Debug\Sale-Dotnet-Web.dll
+C:\Users\lester_profarma\source\repos\Azure\Sale-NET-FRAMEWORK-MVC\Fonts\Sale-DOTNET472\Sale-Dotnet-Web\obj\Debug\Sale-Dotnet-Web.pdb
